@@ -3,6 +3,23 @@
 ## Overview
 This API allows users to add, fetch, and search job postings. It is built using Spring Boot and MongoDB Atlas.
 
+
+## Prerequisites
+- Java 11 or higher
+- Maven
+- MongoDB Atlas account
+- Spring Boot
+
+<p align="center" style="display:flex; justify-content:center; align-items: center;">
+  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://restfulapi.net/wp-content/uploads/rest.png" alt="REST API" width="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB" width="250"/>
+</p>
+
 ## Features
 - **Add Job**: Add a new job posting.
 - **Fetch Jobs**: Retrieve all job postings.
